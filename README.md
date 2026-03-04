@@ -103,14 +103,3 @@ The dashboard successfully converts raw placement data into actionable insights.
 - Cloud deployment for broader accessibility  
 - Multi-institution placement performance comparison  
 
----
-
-
-
----
-
-## 👤 Author
-
-**Your Name**  
-Placement & Salary Prediction Analytics Dashboard  
-Year: 2026
